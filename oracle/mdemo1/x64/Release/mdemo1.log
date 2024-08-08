@@ -1,0 +1,14 @@
+﻿  源.cpp
+D:\source\oracle\mdemo1\源.cpp(45,68): warning C4291: “void *ADDRESS_O::operator new(size_t,const oracle::occi::Connection *,const std::string &)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+D:\source\oracle\mdemo1\mdemo1.h(97): message : 参见“ADDRESS_O::operator new”的声明
+D:\source\oracle\mdemo1\源.cpp(52,59): warning C4291: “void *PERSON_O::operator new(size_t,const oracle::occi::Connection *,const std::string &)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+D:\source\oracle\mdemo1\mdemo1.h(153): message : 参见“PERSON_O::operator new”的声明
+源.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl FullName::FullName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0FullName@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: “link.exe”已退出，代码为 1120。
+源.obj : error LNK2001: 无法解析的外部符号 "public: static void * __cdecl PERSON_O::operator new(unsigned __int64,class oracle::occi::Connection const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??2PERSON_O@@SAPEAX_KPEBVConnection@occi@oracle@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+源.obj : error LNK2001: 无法解析的外部符号 "public: static void * __cdecl FULL_NAME_O::operator new(unsigned __int64)" (??2FULL_NAME_O@@SAPEAX_K@Z)
+源.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl Person::displayInfo(void)" (?displayInfo@Person@@QEAAXXZ)
+源.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl Person::Person(int,class FullName *,class oracle::occi::Ref<class ADDRESS_O> &)" (??0Person@@QEAA@HPEAVFullName@@AEAV?$Ref@VADDRESS_O@@@occi@oracle@@@Z)
+源.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl ADDRESS_O::ADDRESS_O(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0ADDRESS_O@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+源.obj : error LNK2001: 无法解析的外部符号 "public: static void * __cdecl ADDRESS_O::operator new(unsigned __int64,class oracle::occi::Connection const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??2ADDRESS_O@@SAPEAX_KPEBVConnection@occi@oracle@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+D:\source\oracle\x64\Release\mdemo1.exe : fatal error LNK1120: 7 个无法解析的外部命令

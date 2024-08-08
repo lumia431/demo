@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(effective.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\source\effective\effective_auto\源.cpp(71,18): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\effective\effective_auto\源.cpp(71,18): message : 请考虑在格式字符串中使用“%zd”
+D:\source\effective\effective_auto\源.cpp(72,6): warning C4101: “mappedVals”: 未引用的局部变量
+D:\source\effective\effective_auto\源.cpp(73,38): warning C4101: “mappedVals2”: 未引用的局部变量
+  effective_auto.vcxproj -> D:\source\effective\x64\Debug\effective_auto.exe

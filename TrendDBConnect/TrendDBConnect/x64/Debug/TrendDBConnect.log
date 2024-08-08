@@ -1,0 +1,4 @@
+﻿  ThreadTask.cpp
+d:\source\trenddbconnect\trenddbconnect\threadtask.cpp(26): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+d:\source\trenddbconnect\trenddbconnect\threadtask.cpp(144): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  TrendDBConnect.vcxproj -> D:\source\TrendDBConnect\x64\Debug\TrendDBConnect.exe

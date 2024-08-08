@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\source\算法\图\gragh.hpp(14): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+d:\source\算法\图\源.cpp(55): warning C4101: “v2”: 未引用的局部变量
+  图.vcxproj -> D:\source\算法\Debug\图.exe

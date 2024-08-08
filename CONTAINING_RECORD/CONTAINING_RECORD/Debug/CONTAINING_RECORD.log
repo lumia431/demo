@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\source\containing_record\containing_record\源.cpp(10): warning C4005: “CONTAINING_RECORD”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(1367): note: 参见“CONTAINING_RECORD”的前一个定义
+  CONTAINING_RECORD.vcxproj -> D:\source\CONTAINING_RECORD\Debug\CONTAINING_RECORD.exe

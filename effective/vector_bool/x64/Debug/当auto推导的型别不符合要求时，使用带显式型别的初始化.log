@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\source\effective\vector_bool\源.cpp(51,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  当auto推导的型别不符合要求时，使用带显式型别的初始化.vcxproj -> D:\source\effective\x64\Debug\当auto推导的型别不符合要求时，使用带显式型别的初始化.exe

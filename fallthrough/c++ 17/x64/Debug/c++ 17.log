@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\source\fallthrough\c++ 17\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\source\fallthrough\c++ 17\源.cpp(22,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\fallthrough\c++ 17\源.cpp(31,17): warning C4468: fallthrough: 属性后面必须跟有用例标签或默认标签
+  c++ 17.vcxproj -> D:\source\fallthrough\x64\Debug\c++ 17.exe

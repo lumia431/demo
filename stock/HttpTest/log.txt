@@ -1,0 +1,4 @@
+2021-01-20 14:41:02 - [thread 17060][debug][Դ.cpp][108]|,getHisValueByTime body = {"histime":"2021/01/20 14:40:30","mode":0,"tagnames":["Point0000","Point0001"]}
+2021-01-20 14:41:02 - [thread 1228][debug][Դ.cpp][72]|,getThisValues body = {"end":"2021/01/20 14:40:31","start":"2021/01/20 14:40:30","tagnames":["Point0000","Point0001"],"ts":1}
+2021-01-20 14:41:37 - [thread 11448][debug][Դ.cpp][72]|,getThisValues body = {"end":"2021/01/20 14:41:06","start":"2021/01/20 14:41:05","tagnames":["Point0000","Point0001"],"ts":1}
+2021-01-20 14:41:37 - [thread 14148][debug][Դ.cpp][108]|,getHisValueByTime body = {"histime":"2021/01/20 14:41:05","mode":0,"tagnames":["Point0000","Point0001"]}

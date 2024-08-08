@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\source\\c++20模块\\c++20模块\\test.ixx",
+        "ProvidedModule": "test",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

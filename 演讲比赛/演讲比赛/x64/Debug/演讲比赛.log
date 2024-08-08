@@ -1,0 +1,24 @@
+﻿  speechmanage.cpp
+c:\users\administrator\source\repos1\演讲比赛\演讲比赛\speechmanage.cpp(180): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\numeric(26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\numeric(36): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  c:\users\administrator\source\repos1\演讲比赛\演讲比赛\speechmanage.cpp(97): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  演讲比赛.cpp
+c:\users\administrator\source\repos1\演讲比赛\演讲比赛\演讲比赛.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos1\演讲比赛\演讲比赛\演讲比赛.cpp(28): error C3688: 文本后缀“鍏斾釜鏁颁负锛”无效；未找到文文本运算符或文本运算符模板“operator """"鍏斾釜鏁颁负锛”
+  正在生成代码...

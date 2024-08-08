@@ -1,0 +1,7 @@
+﻿  源.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+D:\source\httpServer\include\crow\socket_adaptors.h(22,28): error C2039: "get_io_service": 不是 "boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>" 的成员
+D:\boost_1_80_0\boost\asio\ip\tcp.hpp(83): message : 参见“boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>”的声明

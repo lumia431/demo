@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,30): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,59): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,68): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,82): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,96): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(27,109): warning C4838: 从“int”转换到“WORD”需要收缩转换
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(33,12): warning C4101: “ll”: 未引用的局部变量
+C:\Users\Administrator\source\repos\Project3\Project3\源.cpp(52,11): warning C4101: “ft”: 未引用的局部变量
+  Project3.vcxproj -> C:\Users\Administrator\source\repos\Project3\Debug\Project3.exe

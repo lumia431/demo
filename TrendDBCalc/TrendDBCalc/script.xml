@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <数学>
+		<圆周率>
+		function Main() return math.pi end
+		</圆周率>
+		<绝对值>
+		function Main() return math.abs(-2012) end
+		</绝对值>
+		<取最大>
+		function Main() return math.max(2,4,6,8) end
+		</取最大>
+		<取最小>
+		function Main() return math.min(2,4,6,8) end
+		</取最小>
+		<乘方运算>
+		function Main() return math.pow(2,16) end
+		</乘方运算>
+		<开根号>
+		function Main() return math.sqrt(65536) end
+		</开根号>
+		<随机数>
+		function Main() return math.random(5,90) end
+		</随机数>
+	</数学>
+    <程序逻辑>
+		<ifelse>
+			function Main() 
+			b,result = 100,0 
+			if(b > 100) 
+			then 
+				result = b-100 
+			elseif(b = 100) 
+			then 
+				result = b
+			else 
+				result = 100-b 
+			end 
+			return result 
+		end
+		</ifelse>
+		<for循环>
+		function f(x) 
+			return x * 2 
+			end 
+		function Main() 
+			b = 1 
+			for i = 0, 9  
+			do 
+				b=f(b) 
+			end 
+			return b 
+		end
+		</for循环>
+		<while循环>
+		function Main() 
+		a , b = 0,1 
+		while( a ~= 10 ) 
+			do 
+				b = b+b 
+				a = a+1 
+			end 
+			return b 
+		end 
+		</while循环>
+		<逻辑运算符>
+		function Main() 
+			a = true 
+			b = false 
+			if (a and b) 
+				then 
+				return 1 
+				end 
+			if (a or b) 
+				then 
+				return 0 
+				end 
+		end
+		</逻辑运算符>
+    </程序逻辑>
+    <实时库接口>
+		<取实时值>
+		function Main() 
+			return GetValue("db101.Point0001") + GetValue("db101.Point0002")
+		end
+		</取实时值>
+		<判断是否在变>
+		function Main() 
+			return CheckValue("db101.Point0001")
+		end
+		</判断是否在变>
+    </实时库接口>
+</Config>

@@ -1,0 +1,15 @@
+D:\source\解析tnsnames\解析tnsnames\bin\Debug\net6.0\解析tnsnames.exe
+D:\source\解析tnsnames\解析tnsnames\bin\Debug\net6.0\解析tnsnames.deps.json
+D:\source\解析tnsnames\解析tnsnames\bin\Debug\net6.0\解析tnsnames.runtimeconfig.json
+D:\source\解析tnsnames\解析tnsnames\bin\Debug\net6.0\解析tnsnames.dll
+D:\source\解析tnsnames\解析tnsnames\bin\Debug\net6.0\解析tnsnames.pdb
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.csproj.AssemblyReference.cache
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.AssemblyInfoInputs.cache
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.AssemblyInfo.cs
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.csproj.CoreCompileInputs.cache
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.dll
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\refint\解析tnsnames.dll
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.pdb
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\解析tnsnames.genruntimeconfig.cache
+D:\source\解析tnsnames\解析tnsnames\obj\Debug\net6.0\ref\解析tnsnames.dll

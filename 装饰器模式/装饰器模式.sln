@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "装饰器模式", "装饰器模式\装饰器模式.vcxproj", "{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Debug|x64.ActiveCfg = Debug|x64
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Debug|x64.Build.0 = Debug|x64
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Debug|x86.Build.0 = Debug|Win32
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Release|x64.ActiveCfg = Release|x64
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Release|x64.Build.0 = Release|x64
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Release|x86.ActiveCfg = Release|Win32
+		{016CBAC8-121F-47AB-A94F-D99EB84E6B4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36542447-064D-4D6C-B23F-216529483574}
+	EndGlobalSection
+EndGlobal

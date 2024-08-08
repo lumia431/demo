@@ -1,0 +1,73 @@
+﻿  uic AddDBClass.ui
+  uic AddGroupClass.ui
+  uic AddTagClass.ui
+  uic EditTagClass.ui
+  uic TrendDBCalc.ui
+  uic TrendDBConfClass.ui
+  moc AddGroupClass.h
+  moc LuaCal.h
+  moc EditTagClass.h
+  moc TrendDBConfClass.h
+  moc AddTagClass.h
+  moc AddDBClass.h
+  moc TrendDBCalc.h
+  stdafx.cpp
+  AddDBClass.cpp
+  AddGroupClass.cpp
+  AddTagClass.cpp
+  LuaCal.cpp
+  TrendDBConfClass.cpp
+  EditTagClass.cpp
+  TrendDBCalc.cpp
+  main.cpp
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 LuaCal.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 TrendDBConfClass.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 EditTagClass.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 main.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 AddTagClass.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 TrendDBCalc.cpp)
+D:\source\TrendDBCalc\TrendDBCalc\TrendDBCalc.cpp(693): warning C4715: “TrendDBCalc::EditTag”: 不是所有的控件路径都返回值
+  qrc_TrendDBCalc.cpp
+  moc_AddGroupClass.cpp
+  moc_LuaCal.cpp
+  moc_EditTagClass.cpp
+  moc_TrendDBConfClass.cpp
+  moc_AddTagClass.cpp
+  moc_AddDBClass.cpp
+  moc_TrendDBCalc.cpp
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 x64\Release\moc\moc_TrendDBConfClass.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 x64\Release\moc\moc_LuaCal.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 x64\Release\moc\moc_TrendDBCalc.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 x64\Release\moc\moc_AddTagClass.cpp)
+D:\source\TrendDBCalc\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 x64\Release\moc\moc_EditTagClass.cpp)
+liblua_static.lib(lstate.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lstate.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lauxlib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lauxlib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lapi.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lapi.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ldo.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ldo.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ldebug.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ldebug.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lbaselib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lbaselib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ltablib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ltablib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(liolib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(liolib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(loslib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(loslib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lstrlib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lstrlib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lmathlib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lmathlib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ldblib.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ldblib.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(loadlib_rel.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(loadlib_rel.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(linit.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(linit.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ltm.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ltm.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lmem.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lmem.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lfunc.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lfunc.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lgc.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lgc.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(llex.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(llex.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lstring.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lstring.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ltable.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ltable.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lobject.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lobject.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lzio.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lzio.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(ldump.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(ldump.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lvm.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lvm.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lparser.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lparser.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lundump.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lundump.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lopcodes.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lopcodes.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+liblua_static.lib(lcode.obj) : warning LNK4099: 未找到 PDB“liblua_static.pdb”(使用“liblua_static.lib(lcode.obj)”或在“D:\source\TrendDBCalc\x64\Release\liblua_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“qtmain.pdb”(使用“qtmain.lib(qtmain_win.obj)”或在“D:\source\TrendDBCalc\x64\Release\qtmain.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  TrendDBCalc.vcxproj -> D:\source\TrendDBCalc\x64\Release\TrendDBCalc.exe

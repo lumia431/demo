@@ -1,0 +1,6 @@
+﻿  正在扫描源以查找模块依赖项...
+  test.ixx
+  正在编译...
+  test.ixx
+  源.cpp
+D:\source\c++20模块\c++20模块\源.cpp(18,2): error C3861: “MyFunc”: 找不到标识符

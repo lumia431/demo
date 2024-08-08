@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\vs\constexpr\constexpr\源.cpp(49): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs\constexpr\constexpr\源.cpp(72): error C4996: 'C': 被声明为已否决
+  d:\vs\constexpr\constexpr\源.cpp(62): note: 参见“C”的声明
+d:\vs\constexpr\constexpr\源.cpp(72): warning C4101: “c”: 未引用的局部变量

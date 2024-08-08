@@ -1,0 +1,8 @@
+﻿  SerialPort.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“类型说明符”
+  TimeCounter.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“类型说明符”
+  源.cpp
+c:\users\administrator\source\repos\com demo\com demo\tools.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: 语法错误: 意外的令牌“标识符”，预期的令牌为“类型说明符”
+  正在生成代码...

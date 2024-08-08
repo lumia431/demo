@@ -1,0 +1,10 @@
+﻿  源.cpp
+d:\source\trenddbconnect\trenddbconnect\threadtask.h(2): warning C4005: “FD_SETSIZE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(133): note: 参见“FD_SETSIZE”的前一个定义
+d:\source\trenddbconnect\trenddbconnect\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  35 of 584 functions ( 6.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TrendDBConnect.vcxproj -> D:\source\TrendDBConnect\Release\TrendDBConnect.exe

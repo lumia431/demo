@@ -1,0 +1,29 @@
+﻿  源.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(473): error C2039: “first_argument_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+  f:\source\函数适配器\函数适配器\源.cpp(23): note: 参见对正在编译的 类 模板 实例化 "std::binder2nd<CTest>" 的引用
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(473): error C2146: 语法错误: 缺少“>”(在标识符“first_argument_type”的前面)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(474): error C2039: “result_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(475): error C3770: “unknown-type”: 不是有效基类
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(477): error C2039: “first_argument_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(477): error C2146: 语法错误: 缺少“>”(在标识符“first_argument_type”的前面)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(478): error C2039: “result_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(478): error C2062: 意外的类型“unknown-type”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(478): error C2238: 意外的标记位于“;”之前
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(479): error C2653: “_Base”: 不是类或命名空间名称
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(479): error C3646: “argument_type”: 未知重写说明符
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(479): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(480): error C2653: “_Base”: 不是类或命名空间名称
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(480): error C3646: “result_type”: 未知重写说明符
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(480): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(483): error C2039: “second_argument_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(482): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(483): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(500): error C2039: “second_argument_type”: 不是“CTest”的成员
+  f:\source\函数适配器\函数适配器\源.cpp(12): note: 参见“CTest”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(500): error C3646: “value”: 未知重写说明符
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\functional(500): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int

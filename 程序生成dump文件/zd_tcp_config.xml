@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Sushine_ZD_Tcp tcp_port="8888" timeout="120">
+	<FileLog log_level="Warning" readInterval="10" />
+	<KafkaConfig url="node1.hnzn.com:9092,node2:9092,node3:9092" topic="vibration_sushine_test" />
+	<TrendDBConfig addr="127.0.0.1" port="20010" />
+	<MysqlConfig addr="127.0.0.1" port="3306" username="root" password="123" db_name="zd" charset="utf-8" />
+	<JsonConfigPaths>
+		<JsonConfigPath json_Path=".\config\DA202106050001.json" data_Type="data_realtime" model_id="1903000114" channel="01" log_flag="true" />
+	</JsonConfigPaths>
+</Sushine_ZD_Tcp>

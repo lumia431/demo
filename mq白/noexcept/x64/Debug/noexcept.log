@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\source\mq白\noexcept\源.cpp(11,32): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\mq白\noexcept\源.cpp(30,31): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  noexcept.vcxproj -> D:\source\mq白\x64\Debug\noexcept.exe

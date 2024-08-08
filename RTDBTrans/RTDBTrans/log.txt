@@ -1,0 +1,38 @@
+2020-11-03 16:04:01 - [thread 16008][debug][transtask.cpp][78]|,read tag size = 2
+2020-11-03 16:04:01 - [thread 16008][info][transtask.cpp][26]|,rtdb connect fail!
+2020-11-03 16:04:04 - [thread 16008][info][rtdbtransdlg.cpp][336]|,init fail ,ret = -1
+2020-11-03 16:33:21 - [thread 10340][debug][transtask.cpp][78]|,read tag size = 2
+2020-11-03 16:33:21 - [thread 10340][info][transtask.cpp][26]|,rtdb connect fail!
+2020-11-03 16:33:23 - [thread 10340][info][rtdbtransdlg.cpp][338]|,init fail ,ret = -1
+2020-11-03 16:34:04 - [thread 356][debug][transtask.cpp][78]|,read tag size = 2
+2020-11-03 16:34:05 - [thread 356][info][transtask.cpp][26]|,rtdb connect fail!
+2020-11-03 16:34:06 - [thread 356][info][rtdbtransdlg.cpp][338]|,init fail ,ret = -1
+2020-11-03 16:42:20 - [thread 8684][debug][transtask.cpp][80]|,read tag size = 99
+2020-11-03 16:42:20 - [thread 8684][info][transtask.cpp][26]|,rtdb connect fail!
+2020-11-03 16:42:22 - [thread 8684][info][rtdbtransdlg.cpp][338]|,init fail ,ret = -1
+2020-11-03 16:43:08 - [thread 11388][debug][transtask.cpp][80]|,read tag size = 99
+2020-11-03 16:43:10 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:11 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:12 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:13 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:14 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:15 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:16 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:18 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:19 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:20 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:21 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:22 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:23 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 16:43:24 - [thread 11388][info][transtask.cpp][41]|,rtdb reconnect fail!
+2020-11-03 19:59:55 - [thread 10944][debug][transtask.cpp][124]|,read tag size = 99
+2020-11-03 19:59:55 - [thread 10944][info][transtask.cpp][30]|,rtdb connect fail!
+2020-11-03 19:59:56 - [thread 10944][info][rtdbtransdlg.cpp][338]|,init fail ,ret = -1
+2020-11-04 10:54:53 - [thread 24208][debug][transtask.cpp][154]|,read tag size = 99
+2020-11-04 10:54:53 - [thread 24208][info][transtask.cpp][32]|,rtdb connect fail!
+2020-11-04 10:54:54 - [thread 24208][info][rtdbtransdlg.cpp][338]|,init fail ,ret = -1
+2020-11-06 18:24:39 - [thread 3512][debug][transtask.cpp][144]|,read tag size = 626
+2020-11-06 18:24:40 - [thread 3512][info][transtask.cpp][31]|,rtdb connect fail! addr = 127.0.0.1,port = 20010
+2020-11-06 18:26:02 - [thread 11176][debug][transtask.cpp][148]|,read tag size = 626
+2020-11-06 18:26:03 - [thread 11176][info][transtask.cpp][35]|,rtdb connect fail! addr = 127.0.0.1,port = 20010
+2020-11-06 18:26:07 - [thread 11176][debug][transtask.cpp][148]|,read tag size = 626

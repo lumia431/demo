@@ -1,0 +1,15 @@
+﻿  源.cpp
+D:\source\oracle\blob\源.cpp(57,22): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\oracle\blob\源.cpp(106,22): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\oracle\blob\源.cpp(123,22): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\oracle\blob\源.cpp(187,22): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\oracle\blob\源.cpp(254,22): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\source\oracle\blob\源.cpp(144,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\oracle\blob\源.cpp(173,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\oracle\blob\源.cpp(174,1): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  3 of 165 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  blob.vcxproj -> D:\source\oracle\x64\Release\blob.exe

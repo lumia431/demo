@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\source\trenddbconnect\trenddbconnect\threadtask.h(2): warning C4005: “FD_SETSIZE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(133): note: 参见“FD_SETSIZE”的前一个定义
+d:\source\trenddbconnect\trenddbconnect\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  TrendDBConnect.vcxproj -> D:\source\TrendDBConnect\Debug\TrendDBConnect.exe

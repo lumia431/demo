@@ -1,0 +1,3 @@
+﻿  源1.cpp
+c:\users\administrator\source\repos\project49\project49\源1.cpp(17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Project49.vcxproj -> C:\Users\Administrator\source\repos\Project49\Debug\Project49.exe

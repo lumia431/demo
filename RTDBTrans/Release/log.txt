@@ -1,0 +1,5 @@
+2020-12-08 16:59:44 - [thread 13944][debug][transtask.cpp][152]|,read tag size = 961
+2020-12-08 16:59:45 - [thread 13944][info][transtask.cpp][35]|,rtdb connect fail! addr = 127.0.0.1,port = 20010
+2020-12-08 16:59:51 - [thread 13944][debug][transtask.cpp][152]|,read tag size = 961
+2020-12-08 16:59:54 - [thread 13944][debug][transtask.cpp][152]|,read tag size = 961
+2020-12-08 16:59:55 - [thread 13944][info][transtask.cpp][35]|,rtdb connect fail! addr = 127.0.0.1,port = 20010

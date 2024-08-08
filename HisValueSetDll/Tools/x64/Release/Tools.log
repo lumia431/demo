@@ -1,0 +1,10 @@
+﻿  Tools.cpp
+d:\demo\hisvalueset\include\tools.h(8): warning C4005: “TOOLS_EXPORTS”: 宏重定义
+  d:\demo\hisvalueset\tools\tools.cpp: note: 参见“TOOLS_EXPORTS”的前一个定义
+    正在创建库 D:\demo\HisValueSet\x64\Release\Tools.lib 和对象 D:\demo\HisValueSet\x64\Release\Tools.exp
+  正在生成代码
+  15 of 16 functions (93.8%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Tools.vcxproj -> D:\demo\HisValueSet\x64\Release\Tools.dll

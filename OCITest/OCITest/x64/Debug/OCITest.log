@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\source\OCITest\OCITest\源.cpp(96,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\source\OCITest\OCITest\源.cpp(220,64): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\source\OCITest\OCITest\源.cpp(229,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\OCITest\OCITest\源.cpp(239,35): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\source\OCITest\OCITest\源.cpp(250,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\source\OCITest\OCITest\源.cpp(366,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  OCITest.vcxproj -> D:\source\OCITest\x64\Debug\OCITest.exe

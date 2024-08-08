@@ -1,0 +1,66 @@
+#pragma once
+#include <stdint.h>
+
+namespace Solution
+{
+	enum DB_SYS_STATUS
+	{
+		DB_SYS_INIT = 0,
+		DB_SYS_INIT_OK,
+		DB_SYS_OK
+	};
+
+	enum DB_DATA_TYPE
+	{
+		DB_SWIT_1B = 0,
+		DB_SWIT_2B,
+		DB_SWIT_4B,
+		DB_SWIT_8B,
+		DB_SWIT_VCHAR,
+		DB_SIMU_4B,
+		DB_SIMU_8B,
+		DB_TYPE_UNKNOWN,
+		DB_TYPE_CNT = DB_TYPE_UNKNOWN,
+		DB_TYPE_SWIT_CNT = DB_SWIT_VCHAR,
+		DB_TYPE_SIMU_CNT = (DB_SIMU_8B - DB_SIMU_4B + 1)
+	};
+
+	enum DB_DATA_MODE
+	{
+		DB_DATA_NORMAL = 0,
+		DB_DATA_SPECIAL
+	};
+
+	enum DB_THREAD_MODE
+	{
+		DB_SINGLETHREAD = 0,
+		DB_MULTITHREAD
+	};
+
+	enum DB_SYNC_MODE
+	{
+		DB_SET_NOSYNC = 0,
+		DB_SET_SYNC
+	};
+
+	enum DB_STATUS_SELECT_MODE
+	{
+		DB_STATUS_ALL = 0,
+		DB_STATUS_OK
+	};
+
+	enum TAG_STATUS
+	{
+		TAGSTATUS_DEL = 0,
+		TAGSTATUS_OK
+	};
+
+	enum LRS_LINK_STATUS
+	{
+		LRS_LINK_STATUS_OK = 0,
+		LRS_LINK_STATUS_CLOSE,
+		LRS_LINK_STATUS_WAITSEND,
+		LRS_LINK_STATUS_DISCONNECT,
+	};
+
+}

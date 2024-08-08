@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Lummy\Desktop\source\mq白\range\main.cpp(22,32): warning C4566: 由通用字符名称“\U0001F434”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Lummy\Desktop\source\mq白\range\main.cpp(22,40): warning C4566: 由通用字符名称“\U0001F42D”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Lummy\Desktop\source\mq白\range\main.cpp(22,48): warning C4566: 由通用字符名称“\U0001F975”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\Lummy\Desktop\source\mq白\range\main.cpp(22,56): warning C4566: 由通用字符名称“\U0001F923”表示的字符不能在当前代码页(936)中表示出来
+  range.vcxproj -> C:\Users\Lummy\Desktop\source\mq白\x64\Debug\range.exe

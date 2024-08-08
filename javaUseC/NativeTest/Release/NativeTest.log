@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  NativeTest.cpp
+c:\users\lu'mia\source\repos\javausec\nativetest\nativetest.h(3): warning C4005: “NATIVETEST_EXPORTS”: 宏重定义
+  c:\users\lu'mia\source\repos\javausec\nativetest\pch.cpp: note: 参见“NATIVETEST_EXPORTS”的前一个定义
+    正在创建库 C:\Users\lu'mia\source\repos\javaUseC\Release\NativeTest.lib 和对象 C:\Users\lu'mia\source\repos\javaUseC\Release\NativeTest.exp
+  正在生成代码
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  NativeTest.vcxproj -> C:\Users\lu'mia\source\repos\javaUseC\Release\NativeTest.dll

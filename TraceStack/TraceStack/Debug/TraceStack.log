@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\source\tracestack\tracestack\源.cpp(40): warning C4477: “_snprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“ULONG64”
+  d:\source\tracestack\tracestack\源.cpp(40): note: 请考虑在格式字符串中使用“%llx”
+  d:\source\tracestack\tracestack\源.cpp(40): note: 请考虑在格式字符串中使用“%I64x”
+  TraceStack.vcxproj -> D:\source\TraceStack\Debug\TraceStack.exe

@@ -1,0 +1,10 @@
+﻿  源.cpp
+d:\source\type_traits\project7\源.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\type_traits\project7\源.cpp(137): warning C4930: “check<MyStruct,void> c(void)”: 未调用原型函数(是否是有意用变量定义的?)
+d:\source\type_traits\project7\源.cpp(29): error C2039: “value”: 不是“MyStruct”的成员
+  d:\source\type_traits\project7\源.cpp(10): note: 参见“MyStruct”的声明
+  d:\source\type_traits\project7\源.cpp(136): note: 参见对正在编译的函数 模板 实例化“MyStruct::Int foo1<MyStruct>(T)”的引用
+          with
+          [
+              T=MyStruct
+          ]

@@ -1,0 +1,17 @@
+﻿  pugixml.cpp
+  源.cpp
+D:\source\stock\HttpTest\源.cpp(5,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\source\stock\HttpTest\源.cpp(5,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+D:\source\stock\include\spdlog\fmt\bundled\core.h(327,35): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+D:\source\stock\HttpTest\源.cpp(129,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\source\stock\HttpTest\源.cpp(180,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\source\stock\include\simple_web_server\client_http.hpp(136,84): error C2039: "get_io_service": 不是 "boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>" 的成员
+D:\boost_1_80_0\boost\asio\ip\tcp.hpp(83): message : 参见“boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>”的声明
+D:\source\stock\include\simple_web_server\client_http.hpp(129): message : 在编译 类 模板 成员函数“void SimpleWeb::ClientBase<SimpleWeb::HTTP>::Connection::set_timeout(long) noexcept”时
+D:\source\stock\include\simple_web_server\client_http.hpp(679): message : 查看对正在编译的函数 模板 实例化“void SimpleWeb::ClientBase<SimpleWeb::HTTP>::Connection::set_timeout(long) noexcept”的引用
+D:\source\stock\include\simple_web_server\client_http.hpp(670): message : 查看对正在编译的 类 模板 实例化“SimpleWeb::ClientBase<SimpleWeb::HTTP>::Connection”的引用
+D:\source\stock\include\simple_web_server\client_http.hpp(136,1): error C2512: “boost::asio::basic_waitable_timer<std::chrono::steady_clock,boost::asio::wait_traits<Clock>,boost::asio::any_io_executor>::basic_waitable_timer”: 没有合适的默认构造函数可用
+          with
+          [
+              Clock=std::chrono::steady_clock
+          ]

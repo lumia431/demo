@@ -1,0 +1,374 @@
+2020-12-23 10:50:44 - [thread 9628][info][luacal.cpp][43]|,connect rtdb error
+2020-12-23 10:50:44 - [thread 9628][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 10:30:58 - [thread 15916][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 10:30:58 - [thread 15916][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 10:31:03 - [thread 1644][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 10:31:03 - [thread 1644][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 10:31:34 - [thread 1644][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 10:31:34 - [thread 1644][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 17:51:23 - [thread 19432][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 17:51:23 - [thread 19432][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 17:51:36 - [thread 18264][info][trenddbcalc.cpp][523]|,sqlite insert fail! error info = near ")": syntax error
+2020-12-28 18:41:57 - [thread 13696][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 18:41:57 - [thread 13696][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 18:42:13 - [thread 13208][info][trenddbcalc.cpp][523]|,sqlite insert fail! error info = near ")": syntax error
+2020-12-28 18:42:19 - [thread 8212][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 18:42:19 - [thread 8212][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 18:42:34 - [thread 9228][info][trenddbcalc.cpp][523]|,sqlite insert fail! error info = near ")": syntax error
+2020-12-28 18:42:41 - [thread 19420][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 18:42:41 - [thread 19420][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 18:55:38 - [thread 8772][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 18:55:38 - [thread 8772][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-28 18:55:52 - [thread 17404][info][trenddbcalc.cpp][523]|,sqlite insert fail! error info = near ")": syntax error
+2020-12-28 18:55:58 - [thread 17148][info][luacal.cpp][43]|,connect rtdb error
+2020-12-28 18:55:58 - [thread 17148][info][trenddbcalc.cpp][1110]|,Init fail , ret = -1
+2020-12-29 10:26:23 - [thread 10424][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:26:23 - [thread 10424][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:26:44 - [thread 13704][info][trenddbcalc.cpp][530]|,sqlite insert fail! error info = no such column: aa
+2020-12-29 10:26:50 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:26:50 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:27:21 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:27:21 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:27:52 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:27:52 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:28:23 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:28:23 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:28:54 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:28:54 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:29:25 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:29:25 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:29:56 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:29:56 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2020-12-29 10:30:27 - [thread 16140][info][luacal.cpp][43]|,connect rtdb error
+2020-12-29 10:30:27 - [thread 16140][info][trenddbcalc.cpp][1120]|,Init fail , ret = -1
+2021-01-04 10:06:33 - [thread 4144][info][luacal.cpp][143]|,connect rtdb error
+2021-01-04 10:06:33 - [thread 4144][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-04 10:06:34 - [thread 8360][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 10:06:34 - [thread 8360][info][trenddbcalc.cpp][1179]|,Init fail , ret = -1
+2021-01-04 13:53:32 - [thread 1412][info][luacal.cpp][143]|,connect rtdb error
+2021-01-04 13:53:32 - [thread 1412][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-04 13:53:34 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:53:34 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:54:05 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:54:05 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:54:36 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:54:36 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:55:07 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:55:07 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:55:38 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:55:38 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:56:09 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:56:09 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:56:40 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:56:40 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:57:11 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:57:11 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:57:42 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:57:42 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:58:13 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:58:13 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:58:44 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:58:44 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:59:15 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:59:15 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 13:59:46 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 13:59:46 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:00:17 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:00:17 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:00:48 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:00:48 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:01:19 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:01:19 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:01:50 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:01:50 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:02:21 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:02:21 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:02:52 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:02:52 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:03:23 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:03:23 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:03:54 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:03:54 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:04:25 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:04:25 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:04:56 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:04:56 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:05:27 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:05:27 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:05:58 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:05:58 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:06:29 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:06:29 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:07:00 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:07:00 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:07:31 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:07:31 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:08:02 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:08:02 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:08:33 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:08:33 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:09:04 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:09:04 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:09:35 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:09:35 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:10:06 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:10:06 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:10:37 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:10:37 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:11:08 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:11:08 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:11:39 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:11:39 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:12:10 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:12:10 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:12:41 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:12:41 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:13:12 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:13:12 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:13:43 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:13:43 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:14:14 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:14:14 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:14:45 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:14:45 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:15:16 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:15:16 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:15:47 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:15:47 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:16:18 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:16:18 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:16:49 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:16:49 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:17:20 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:17:20 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:17:51 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:17:51 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:18:22 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:18:22 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:18:53 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:18:53 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:19:24 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:19:24 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:19:55 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:19:55 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:20:26 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:20:26 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:20:57 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:20:57 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:21:28 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:21:28 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:21:59 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:21:59 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:22:30 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:22:30 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:23:01 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:23:01 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:23:32 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:23:32 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:24:03 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:24:03 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:24:34 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:24:34 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:25:05 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:25:05 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:25:36 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:25:36 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:26:07 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:26:07 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:26:38 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:26:38 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:27:09 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:27:09 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:27:40 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:27:40 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:28:11 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:28:11 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:28:42 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:28:42 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:29:13 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:29:13 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:29:44 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:29:44 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:30:15 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:30:15 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:30:46 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:30:46 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:31:17 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:31:17 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:31:48 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:31:48 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:32:19 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:32:19 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:32:50 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:32:50 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:33:21 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:33:21 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:33:52 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:33:52 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:34:23 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:34:23 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:34:54 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:34:54 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:35:25 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:35:25 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:35:56 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:35:56 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:36:27 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:36:27 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:36:58 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:36:58 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:37:29 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:37:29 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:38:00 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:38:00 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:38:31 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:38:31 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:39:02 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:39:02 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:39:33 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:39:33 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:40:04 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:40:04 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:40:35 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:40:35 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:41:06 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:41:06 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:41:37 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:41:37 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:42:08 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:42:08 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:42:39 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:42:39 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:43:10 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:43:10 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:43:41 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:43:41 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:44:12 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:44:12 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:44:43 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:44:43 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:45:14 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:45:14 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:45:45 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:45:45 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:46:16 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:46:16 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:46:47 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:46:47 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:47:18 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:47:18 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:47:49 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:47:49 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:48:20 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:48:20 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:48:51 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:48:51 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:49:22 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:49:22 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:49:53 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:49:53 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:50:24 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:50:24 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:50:55 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:50:55 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:51:26 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:51:26 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:51:57 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:51:57 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:52:28 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:52:28 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:52:59 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:52:59 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:53:30 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:53:30 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:54:01 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:54:01 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:54:32 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:54:32 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:55:03 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:55:03 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:55:34 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:55:34 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:56:05 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:56:05 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:56:36 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:56:36 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:57:07 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:57:07 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:57:38 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:57:38 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:58:09 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:58:09 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:58:40 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:58:40 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:59:11 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:59:11 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-04 14:59:42 - [thread 15792][info][luacal.cpp][43]|,connect rtdb error
+2021-01-04 14:59:42 - [thread 15792][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-05 08:49:32 - [thread 8048][info][luacal.cpp][143]|,connect rtdb error
+2021-01-05 08:49:32 - [thread 8048][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-05 08:49:33 - [thread 18484][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 08:49:33 - [thread 18484][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-05 08:50:04 - [thread 18484][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 08:50:04 - [thread 18484][info][trenddbcalc.cpp][1165]|,Init fail , ret = -1
+2021-01-05 08:54:38 - [thread 19384][info][luacal.cpp][143]|,connect rtdb error
+2021-01-05 08:54:38 - [thread 19384][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-05 08:54:39 - [thread 13096][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 08:54:39 - [thread 13096][info][trenddbcalc.cpp][1164]|,Init fail , ret = -1
+2021-01-05 08:55:10 - [thread 13096][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 08:55:10 - [thread 13096][info][trenddbcalc.cpp][1164]|,Init fail , ret = -1
+2021-01-05 10:09:32 - [thread 17892][info][luacal.cpp][143]|,connect rtdb error
+2021-01-05 10:09:32 - [thread 17892][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-05 10:09:33 - [thread 21052][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 10:09:33 - [thread 21052][info][trenddbcalc.cpp][1164]|,Init fail , ret = -1
+2021-01-05 10:09:56 - [thread 9192][info][luacal.cpp][143]|,connect rtdb error
+2021-01-05 10:09:56 - [thread 9192][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-05 10:09:57 - [thread 8644][info][luacal.cpp][43]|,connect rtdb error
+2021-01-05 10:09:57 - [thread 8644][info][trenddbcalc.cpp][1164]|,Init fail , ret = -1
+2021-01-07 15:21:29 - [thread 20944][info][luacal.cpp][143]|,connect rtdb error
+2021-01-07 15:21:29 - [thread 20944][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-07 15:21:31 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:21:31 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:22:02 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:22:02 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:22:33 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:22:33 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:23:04 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:23:04 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:23:35 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:23:35 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:24:06 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:24:06 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:24:37 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:24:37 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:25:08 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:25:08 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:25:39 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:25:39 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:26:10 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:26:10 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:26:41 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:26:41 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:27:12 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:27:12 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:27:43 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:27:43 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:28:14 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:28:14 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-07 15:28:45 - [thread 12852][info][luacal.cpp][43]|,connect rtdb error
+2021-01-07 15:28:45 - [thread 12852][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2021-01-12 14:26:25 - [thread 19856][info][luacal.cpp][143]|,connect rtdb error
+2021-01-12 14:26:25 - [thread 19856][info][addtagclass.cpp][21]|,Connect RTDB fail
+2021-01-12 14:26:26 - [thread 21324][info][luacal.cpp][43]|,connect rtdb error
+2021-01-12 14:26:26 - [thread 21324][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2022-03-01 11:08:39 - [thread 21616][info][luacal.cpp][143]|,connect rtdb error
+2022-03-01 11:08:39 - [thread 21616][info][addtagclass.cpp][21]|,Connect RTDB fail
+2022-03-01 11:08:41 - [thread 22044][info][luacal.cpp][43]|,connect rtdb error
+2022-03-01 11:08:41 - [thread 22044][info][trenddbcalc.cpp][1167]|,Init fail , ret = -1
+2023-06-06 19:55:32 - [thread 30696][info][LuaCal.cpp][143]|,connect rtdb error
+2023-06-06 19:55:32 - [thread 30696][info][AddTagClass.cpp][21]|,Connect RTDB fail
+2023-06-06 19:55:34 - [thread 26296][info][LuaCal.cpp][43]|,connect rtdb error
+2023-06-06 19:55:34 - [thread 26296][info][TrendDBCalc.cpp][1167]|,Init fail , ret = -1
+2023-06-06 19:56:07 - [thread 26296][info][LuaCal.cpp][43]|,connect rtdb error
+2023-06-06 19:56:07 - [thread 26296][info][TrendDBCalc.cpp][1167]|,Init fail , ret = -1
+2023-06-06 19:56:39 - [thread 26296][info][LuaCal.cpp][43]|,connect rtdb error

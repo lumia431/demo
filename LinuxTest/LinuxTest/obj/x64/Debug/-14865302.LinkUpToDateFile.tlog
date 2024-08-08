@@ -1,0 +1,1 @@
+g++ -o "/home/lumia/projects/LinuxTest/bin/x64/Debug/LinuxTest.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/lumia/projects/LinuxTest/obj/x64/Debug/源.o"

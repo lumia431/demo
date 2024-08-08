@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\source\oracle\vector\源.cpp(127,56): warning C4291: “void *Journal::operator new(size_t,void *)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+D:\source\oracle\vector\源.cpp(86): message : 参见“Journal::operator new”的声明
+D:\source\oracle\vector\源.cpp(136,26): warning C4101: “excep”: 未引用的局部变量
+D:\source\oracle\vector\源.cpp(161,26): warning C4101: “excep”: 未引用的局部变量
+D:\source\oracle\vector\源.cpp(175,9): warning C4101: “i”: 未引用的局部变量
+D:\source\oracle\vector\源.cpp(418,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 195 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  vector.vcxproj -> D:\source\oracle\x64\Release\vector.exe

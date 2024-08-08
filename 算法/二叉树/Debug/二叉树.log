@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Test01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\source\算法\二叉树\TreeNode.h(101,22): warning C4018: “<”: 有符号/无符号不匹配
+  二叉树.vcxproj -> D:\source\算法\Debug\二叉树套路题.exe

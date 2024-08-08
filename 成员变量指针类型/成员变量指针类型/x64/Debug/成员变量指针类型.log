@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\source\成员变量指针类型\成员变量指针类型\源.cpp(26,34): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  成员变量指针类型.vcxproj -> D:\source\成员变量指针类型\x64\Debug\成员变量指针类型.exe

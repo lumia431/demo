@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\source\组合关系的析构顺序\组合关系的析构顺序\源.cpp(10,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\组合关系的析构顺序\组合关系的析构顺序\源.cpp(26,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\组合关系的析构顺序\组合关系的析构顺序\源.cpp(42,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\组合关系的析构顺序\组合关系的析构顺序\源.cpp(58,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  组合关系的析构顺序.vcxproj -> D:\source\组合关系的析构顺序\Debug\组合关系的析构顺序.exe

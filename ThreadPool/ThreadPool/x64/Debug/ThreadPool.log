@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\source\ThreadPool\ThreadPool\ThreadPool.h(64,30): error C2079: “task”使用未定义的 class“std::packaged_task<void>”
+D:\source\ThreadPool\ThreadPool\源.cpp(19): message : 查看对正在编译的函数 模板 实例化“std::future<void> ThreadPool::enqueue<main::<lambda_1>,>(F &&)”的引用
+          with
+          [
+              F=main::<lambda_1>
+          ]
+D:\source\ThreadPool\ThreadPool\ThreadPool.h(64,35): error C2440: “初始化”: 无法从“std::shared_ptr<std::packaged_task<void>>”转换为“int”
+D:\source\ThreadPool\ThreadPool\ThreadPool.h(64,35): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+D:\source\ThreadPool\ThreadPool\ThreadPool.h(76,35): error C2100: 非法的间接寻址

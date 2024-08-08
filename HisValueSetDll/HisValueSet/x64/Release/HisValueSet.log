@@ -1,0 +1,18 @@
+﻿  HisValueSet.cpp
+d:\baidunetdiskdownload\rep\hisvalueset\include\tools.h(44): warning C4101: “ll”: 未引用的局部变量
+d:\baidunetdiskdownload\rep\hisvalueset\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+  HisValueSetDlg.cpp
+d:\baidunetdiskdownload\rep\hisvalueset\include\tools.h(44): warning C4101: “ll”: 未引用的局部变量
+d:\baidunetdiskdownload\rep\hisvalueset\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+  SetHisValue.cpp
+d:\baidunetdiskdownload\rep\hisvalueset\hisvalueset\sethisvalue.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\baidunetdiskdownload\rep\hisvalueset\include\tools.h(44): warning C4101: “ll”: 未引用的局部变量
+d:\baidunetdiskdownload\rep\hisvalueset\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\baidunetdiskdownload\rep\hisvalueset\hisvalueset\sethisvalue.cpp(55): warning C4305: “参数”: 从“double”到“float”截断
+d:\baidunetdiskdownload\rep\hisvalueset\hisvalueset\sethisvalue.cpp(214): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  54 of 6228 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HisValueSet.vcxproj -> D:\BaiduNetdiskDownload\rep\HisValueSet\x64\Release\HisValueSet.exe

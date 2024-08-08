@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\source\mq白\动态异常\源.cpp(9,24): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  动态异常.vcxproj -> D:\source\mq白\x64\Debug\动态异常.exe

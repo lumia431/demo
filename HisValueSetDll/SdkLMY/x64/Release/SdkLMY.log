@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SdkLMY.cpp
+c:\users\administrator\source\repos\hisvalueset\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+c:\users\administrator\source\repos\hisvalueset\sdklmy\sdklmy.cpp(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\hisvalueset\sdklmy\sdklmy.cpp(78): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 C:\Users\Administrator\source\repos\HisValueSet\x64\Release\LMY.lib 和对象 C:\Users\Administrator\source\repos\HisValueSet\x64\Release\LMY.exp
+  正在生成代码
+  All 1680 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SdkLMY.vcxproj -> C:\Users\Administrator\source\repos\HisValueSet\x64\Release\LMY.dll

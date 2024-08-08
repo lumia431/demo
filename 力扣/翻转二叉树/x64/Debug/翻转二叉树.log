@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\source\力扣\翻转二叉树\源.cpp(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+D:\source\力扣\翻转二叉树\源.cpp(49,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  翻转二叉树.vcxproj -> D:\source\力扣\x64\Debug\翻转二叉树.exe

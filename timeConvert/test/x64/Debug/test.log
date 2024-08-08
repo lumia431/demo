@@ -1,0 +1,2 @@
+﻿  源.cpp
+D:\source\timeConvert\test\源.cpp(30,27): error C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

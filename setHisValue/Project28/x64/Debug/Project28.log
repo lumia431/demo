@@ -1,0 +1,7 @@
+﻿  SetHisValue.cpp
+c:\users\administrator\source\repos\project28\project28\sethisvalue.cpp(109): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\project28\project28\sethisvalue.cpp(167): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+c:\users\administrator\source\repos\project28\project28\sethisvalue.cpp(209): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  Project28.vcxproj -> C:\Users\Administrator\source\repos\Project28\x64\Debug\Project28.exe

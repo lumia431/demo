@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\source\timeConvert\Project3\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\source\timeConvert\Project3\源.cpp(69,30): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(69,59): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(69,68): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(69,82): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(69,96): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(69,109): warning C4838: 从“int”转换到“WORD”需要收缩转换
+D:\source\timeConvert\Project3\源.cpp(75,12): warning C4101: “ll”: 未引用的局部变量
+  Project3.vcxproj -> D:\source\timeConvert\x64\Debug\timeConvert.exe

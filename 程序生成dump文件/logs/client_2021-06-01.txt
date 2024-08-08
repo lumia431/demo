@@ -1,0 +1,23 @@
+[17:54:27 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-2,modelID =1903000114
+[17:54:27 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-3,modelID =1903000114
+[17:54:27 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-4,modelID =1903000114
+[17:54:27 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-5,modelID =1903000114
+[17:54:28 +08:00] [source ksbserver.cpp] [line 958] [thread 15376]  kafka write error 
+[17:54:37 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-2,modelID =1903000114
+[17:54:37 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-3,modelID =1903000114
+[17:54:37 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-4,modelID =1903000114
+[17:54:37 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-5,modelID =1903000114
+[17:54:38 +08:00] [source ksbserver.cpp] [line 958] [thread 15376]  kafka write error 
+[17:54:47 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-2,modelID =1903000114
+[17:54:47 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-3,modelID =1903000114
+[17:54:47 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-4,modelID =1903000114
+[17:54:47 +08:00] [source ksbserver.cpp] [line 629] [thread 22520]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-5,modelID =1903000114
+[17:54:48 +08:00] [source ksbserver.cpp] [line 958] [thread 15376]  kafka write error 
+[17:55:14 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-2,modelID =1903000114
+[17:55:14 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-3,modelID =1903000114
+[17:55:14 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-4,modelID =1903000114
+[17:55:14 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-5,modelID =1903000114
+[17:55:44 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-2,modelID =1903000114
+[17:55:44 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-3,modelID =1903000114
+[17:55:44 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-4,modelID =1903000114
+[17:55:44 +08:00] [source ksbserver.cpp] [line 629] [thread 4180]  not find collect id in  vibrationPoints,currentChannelId =DA202104120001-5,modelID =1903000114

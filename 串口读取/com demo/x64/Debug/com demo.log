@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\baidunetdiskdownload\rep\com demo\com demo\tools.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\baidunetdiskdownload\rep\com demo\com demo\源.cpp(15): warning C4068: 未知的杂注
+d:\baidunetdiskdownload\rep\com demo\com demo\源.cpp(214): warning C4838: 从“int”转换到“char”需要收缩转换
+d:\baidunetdiskdownload\rep\com demo\com demo\源.cpp(214): warning C4309: “初始化”: 截断常量值
+  com demo.vcxproj -> D:\BaiduNetdiskDownload\rep\com demo\x64\Debug\com demo.exe

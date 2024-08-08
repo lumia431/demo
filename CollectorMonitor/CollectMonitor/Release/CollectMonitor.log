@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(CollectMonitor.vcxproj, Swdw.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CollectMonitor.cpp
+d:\source\collectormonitor\include\paho.mqt.cpp\src\mqtt\connect_options.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\collectormonitor\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\source\collectormonitor\collectmonitor\collectmonitor.cpp(352): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  minidump.cpp
+  源.cpp
+d:\source\collectormonitor\include\paho.mqt.cpp\src\mqtt\connect_options.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\collectormonitor\include\spdlog\fmt\bundled\core.h(327): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\source\collectormonitor\collectmonitor\源.cpp(10): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  9289 of 9289 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CollectMonitor.vcxproj -> D:\source\CollectorMonitor\Release\CollectorMonitor.exe
