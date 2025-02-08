@@ -1,0 +1,11 @@
+add_library(core
+  STATIC
+    my_add.hpp
+    my_sub.hpp
+    my_mul.hpp
+    my_div.hpp
+    my_add.cpp
+    my_sub.cpp
+    my_mul.cpp
+    my_div.cpp
+  )

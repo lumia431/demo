@@ -1,0 +1,5 @@
+C:/Users/Lummy/Desktop/test_cov/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lummy/Desktop/test_cov/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lummy/Desktop/test_cov/build/core/CMakeFiles/core.dir
+C:/Users/Lummy/Desktop/test_cov/build/src/CMakeFiles/main.dir
+C:/Users/Lummy/Desktop/test_cov/build/gtest/CMakeFiles/test.dir

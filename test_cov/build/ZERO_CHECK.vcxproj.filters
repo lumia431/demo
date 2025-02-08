@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lummy\Desktop\test_cov\build\CMakeFiles\15f510e58c11c87487c343e9850de2cc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lummy\Desktop\test_cov\core\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\core</Filter>
+    </None>
+    <None Include="C:\Users\Lummy\Desktop\test_cov\gtest\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\gtest</Filter>
+    </None>
+    <None Include="C:\Users\Lummy\Desktop\test_cov\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76D15AD5-485C-3459-8B35-7167F6828039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\core">
+      <UniqueIdentifier>{578AED74-AD47-3F4C-8ED3-D01A8E564642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\gtest">
+      <UniqueIdentifier>{48BE2172-467D-3AEC-9E01-BFC9ED6DB7C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src">
+      <UniqueIdentifier>{D8E98C7C-B469-3435-8BA3-2D37CE29EE5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
